@@ -1,9 +1,8 @@
 # Portfolio
 Ansammlung meiner Projekte
 
-in [Section 'Features'](#ssFeatures) 
 
-## Features <a id='ssFeatures'>https://github.com/Programmerier/Auto-Renamer</a>
+[AUTO-RENAMER]([URL](https://github.com/Programmerier/Auto-Rename))
 
 
 https://github.com/Programmerier/Outfit-App
